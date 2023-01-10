@@ -1,10 +1,11 @@
 ---
 title: Home
-metaDescription: The Walk to the Sea covers four centuries of Boston history. Beginning at the State House on Beacon Hill, overlooking the old Boston Common, the Walk passes historic monuments and skyscrapers.
+metaDescription: >
+     Becoming Boston: Eight Moments in the Geography of a Changing City offers an introduction to the historical and present-day story of Boston through the collections of the Leventhal Map & Education Center.
 hero:
     img:
         src: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/232,218,6602,4095/,2000/0/default.jpg"
-        alt: "Photo of Boston Harbor"
+        alt: "Map of changing Boston shoreline from 1895"
     headline: >
         Becoming Boston: Eight Moments in the Geography of a Changing City offers an introduction to the historical and present-day story of Boston through the collections of the Leventhal Map & Education Center.
     intro:
@@ -15,7 +16,7 @@ body_paragraph: >
 locations:
     img:
         src: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463412c/2479,2081,2087,2087/,1200/0/default.jpg"
-        alt: "Photo of Customs House Observation Tower"
+        alt: "Illustration of ships in Boston Harbor from a birds-eye view"
     heading: "This exhibition follows eight themes in the historical geography of Boston. Choose one to see the objects and learn more."
 visit_info:
     headline: "Visit the exhibition in person"
