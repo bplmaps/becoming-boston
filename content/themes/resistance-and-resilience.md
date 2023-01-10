@@ -4,24 +4,24 @@ description: >
   The “color line,” which the Black scholar W. E. B. Du Bois described as “the problem of the twentieth century,” was not just a conceptual line between groups of people but very often a cartographic line, a space of both racist confrontation and demands for liberation.
 color: "#354168"
 objects:
-  - title: "View of East Boston, Mass: 1879"
+  - title: "Illustrative site plan: Washington Park urban renewal area"
     tombstone: >
-      O. H. Bailey & Co. || 1879 || Leventhal Map & Education Center
-    collection_link: "https://collections.leventhalmap.org/search/commonwealth:3f4634491"
+      Boston Redevelopment Authority || 1970 || Leventhal Map and Education Center
+    collection_link: "https://collections.leventhalmap.org/search/commonwealth:4m90hf890"
     image_source: 
       type: "iiif"
-      src: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463450s"
+      src: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:086156703"
     description: > 
-      The sponsor of this bird’s-eye view—the Cunard Steamship Company—and the emphasis on the docks in the foreground of the map are both reminders of the role that immigration has played in the history of the East Boston neighborhood. At the time this map was published, the list of churches on the right side of the title hinted at the neighborhood’s diversity, with institutions like Congregational and Unitarian meeting houses sharing space with immigrants’ Methodist, Baptist, and Roman Catholic churches. Like much of Boston at this time, Irish Catholic immigrants made up the largest single group of newcomers. In 1920, the United States government would set up an immigration control station on the East Boston waterfront, at a time when racist ideas about different ethnic groups were contributing to tightened restrictions on immigration. Today, East Boston is a thriving center of the city’s Hispanic community.  
-  - title: "Maps from the book The City Wilderness"
+      A threefold blow hit Boston in the first half of the twentieth century. First, the region began to deindustrialize as factories left for cheaper labor in the U.S. South. Then, the entire nation went through the calamity of the Great Depression. Finally, suburbanization, driven by mass automobile ownership and white flight to single-family neighborhoods, hollowed out older and denser parts of the city. This map, one of many made by the BRA in the 1960s and 1970s, shows how the city tried to cope with these changes: by using federal money, expert planners, and massive urban renewal schemes to reconstruct challenged neighborhoods. In this project planned for Washington Park in Roxbury, many Black middle-class leaders welcomed renewal efforts. But the combination of over-ambitious top-down plans and the ongoing legacy of racist disinvestment meant that many of these programs failed to create the vibrant and equitable spaces that the planners had hoped to create. 
+  - title: "Short term plan to reduce racial imbalance in the Boston Public Schools"
     tombstone: >
-      Robert A. Woods; Members of the South End Settlement House; C. J. Peters & Son; and Houghton, Mifflin, & Co. || 1898 || Boston Public Library
-    collection_link: "https://archive.org/details/citywildernessse00wood_0/"
+      Massachusetts Board of Education || 1974 || Boston Public Library
+    collection_link: "https://archive.org/details/shorttermplantor00mass/"
     image_source: 
-      type: "static"
-      src: "https://s3.us-east-2.wasabisys.com/lmec-public-files/exhibitions/becoming-boston/woods_city_wilderness_race_factors.jpg"
+      type: "ia_bookviewer"
+      src: "https://archive.org/details/shorttermplantor00mass/page/53/mode/2up"
     description: > 
-      In response to the exploitative living and working conditions facing many immigrants, reformers in the late nineteenth century founded “settlement houses,” volunteer social service agencies with the goal of improving impoverished urban districts. Settlement workers produced some of the first detailed maps to study socioeconomic and demographic conditions—the most famous of which were the Hull House maps of Chicago. In Boston, the South End House created similar maps documenting multi-ethnic, working-class neighborhoods. These maps of the South End from the 1898 book _The City Wilderness_ show the sorts of urban phenomena that interested the reformers. In the map of “predominant race factors,” they observed how different groups clustered together in blocks, while the map of “industrial character” examined the composition of the labor force. Other maps took stock of building types and social institutions. While the middle-class reformers had many well-intentioned plans to bring resources to these neighborhoods, their exoticizing treatment of an urban “wilderness” often jostled uncomfortably with the efforts of immigrants and laborers to form their own social movements.
+      One of the most glaring inequalities in Boston by the middle twentieth century was the _de facto_ segregation of its school system, the product of racist housing practices which had limited nearly all Black Bostonians to a handful of neighborhoods. Civil rights leaders insisted that Boston needed to redress the racial geography of its school system, bravely standing up to open threats by white supremacists. In 1974, after many years of officials dithering on plans to comply with desegregation laws, a federal judge ruled that Boston needed to immediately rebalance the racial composition of its schools. This report, which was released just before the ruling, used early computer mapping methods to propose one possible drawing of school attendance boundaries in a more racially inclusive fashion. The subsequent years and decades saw painful conflicts over how to assign students to different schools, a geographic fight that revealed much deeper fissures in the city’s racial geography. 
 order: 7
 
 ---

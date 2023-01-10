@@ -43,6 +43,12 @@
         </div>
       </div>
 
+      <div v-else-if="objectInfo.image_source.type === 'ia_bookviewer'" class="h-[75vh] w-full bg-black p-2 my-6">
+        <div class="relative h-full w-full">
+          <iframe :src="objectInfo.image_source.src" class="w-full h-full" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+      </div>
+
       <div class="font-serif leading-relaxed" v-html="parsedDescription" />
     </div>
 

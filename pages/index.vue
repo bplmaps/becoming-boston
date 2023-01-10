@@ -56,8 +56,8 @@
         :src="page.locations.img.src"
         :alt="page.locations.img.alt"
       />
-      <div class="container mx-auto px-5 py-14 sm:py-28" id="themes">
-        <div class="md:pr-8 lg:pr-14">
+      <div class="md:w-2/3 py-14 sm:py-28" id="themes">
+        <div class="px-8 lg:px-12">
           <h2 v-if="page.locations.heading" class="font-sans text-xl italic leading-none mb-4 max-w-[14rem] lg:mb-8 xl:text-3xl xl:max-w-md 2xl:text-4xl 2xl:max-w-lg">
             {{ page.locations.heading }}
           </h2>

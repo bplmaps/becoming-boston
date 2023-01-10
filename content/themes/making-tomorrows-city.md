@@ -18,8 +18,8 @@ objects:
       Massachusetts Bay Transportation Authority || 1979 || Boston Public Library
     collection_link: "https://archive.org/details/southwestcorrido00mass_0"
     image_source: 
-      type: "static"
-      src: "https://s3.us-east-2.wasabisys.com/lmec-public-files/exhibitions/becoming-boston/southwest_corridor_spread4-5.jpg"
+      type: "ia_bookviewer"
+      src: "https://archive.org/details/southwestcorrido00mass_0/page/n11/mode/2up"
     description: > 
       For most of the first two thirds of the twentieth century, planners had desperately tried to figure out how to make an old city like Boston convenient for automobiles, which had quickly become the dominant mode of transportation by the 1950s. That meant slicing highways directly through the middle of the city, as with the Central Artery, and by the 1960s the state and federal government were working out massive plans to build additional highways throughout the area. Popular resistance, however, stopped the highway that had been planned through Jamaica Plain and Roxbury. This 1979 plan shows what happened instead: the state agreed to build a transit corridor in response to demands for a more participatory and citizen-driven approach to urban development. This pamphlet (which features a photo of the “People Before Highways” protests on its cover) promised not only transit access, but also housing, parks, and jobs. However, relocating the Orange Line to the Southwest Corridor had the side effect of depriving central Roxbury of its elevated rail line, and organizers today are still working to achieve more equity in the transportation network.
 order: 8
