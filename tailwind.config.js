@@ -35,7 +35,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: [
-          'DM Sans',
+          'new-atten',
           'ui-sans-serif',
           'system-ui',
           '-apple-system',
@@ -52,7 +52,7 @@ module.exports = {
           '"Noto Color Emoji"'
         ],
         serif: [
-          'DM Serif Text',
+          'ivyora-text',
           'ui-serif',
           'Georgia',
           'Cambria',
@@ -69,7 +69,8 @@ module.exports = {
         midnight: '#1d1e2c',
         pewter: '#ccd0d9',
         periwinkle: '#e0e6ff',
-        cornflower: '#839cff'
+        cornflower: '#839cff',
+        paleyellow: '#fbf7f0'
       }),
       typography: ({ theme }) => ({
         midnight: {

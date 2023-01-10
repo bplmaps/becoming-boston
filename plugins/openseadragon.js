@@ -79,5 +79,5 @@ Vue.component('OpenSeadragon', {
     }
   },
 
-  template: '<div :id="id" class="absolute inset-0 w-full h-full"></div>'
+  template: '<div :id="id" class="absolute w-full h-full"></div>'
 })

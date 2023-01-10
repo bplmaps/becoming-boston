@@ -5,7 +5,12 @@
         class="inline-block"
         to="/"
       >
-        Becoming Boston
+      <nuxt-img
+          class="block mt-2 h-10"
+          src="/brand-logo.png"
+          alt="Becoming Boston"
+          sizes="sm:500px"
+        />
       </nuxt-link>
     </div>
   </header>
