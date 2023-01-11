@@ -79,6 +79,10 @@ export default {
     }
   },
 
+  router: {
+    base: '/digital-exhibitions/becoming-boston/'
+  },
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     extend (config) {

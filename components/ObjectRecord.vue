@@ -15,7 +15,7 @@
                     :id="objectInfo.collection_link"
                     :options="{
                       tileSources: [objectInfo.image_source.src],
-                      prefixUrl: '/openseadragon/',
+                      prefixUrl: '/digital-exhibitions/becoming-boston/openseadragon/',
                       preserveViewport: true,
                       visibilityRatio: 1,
                       defaultZoomLevel: 0,
@@ -32,7 +32,7 @@
                     :id="objectInfo.collection_link"
                     :options="{
                       tileSources: {type: 'image', url: objectInfo.image_source.src},
-                      prefixUrl: '/openseadragon/',
+                      prefixUrl: '/digital-exhibitions/becoming-boston/openseadragon/',
                       preserveViewport: true,
                       visibilityRatio: 1,
                       defaultZoomLevel: 0,
