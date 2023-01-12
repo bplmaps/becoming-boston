@@ -6,7 +6,7 @@ color: "#317a5b"
 objects:
   - title: "A mapp of New England"
     tombstone: >
-      John Seller and John Hills || 1675 || Mapping Boston Foundation
+      John Seller and John Hills || 1675 || Mapping Boston Collection
     collection_link: "https://collections.leventhalmap.org/search/commonwealth:3f462s90h"
     image_source: 
       type: "iiif"

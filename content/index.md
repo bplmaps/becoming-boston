@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Becoming Boston
 metaDescription: >
      Becoming Boston: Eight Moments in the Geography of a Changing City offers an introduction to the historical and present-day story of Boston through the collections of the Leventhal Map & Education Center.
 hero:

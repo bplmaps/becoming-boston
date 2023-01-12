@@ -16,6 +16,7 @@ export default {
       { name: 'theme-color', content: '#1d1e2c' },
       { name: 'og:site_name', content: 'Becoming Boston · Leventhal Map & Education Center' },
       { name: 'og:type', content: 'website' },
+      { name: 'og:image', content: 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/232,218,6602,4095/,2000/0/default.jpg' },
       { name: 'twitter:card', content: 'summary' },
       { name: 'twitter:site', content: '@bplmaps' }
     ],

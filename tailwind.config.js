@@ -65,8 +65,8 @@ module.exports = {
         condensed: '0.8'
       },
       colors: ({ colors }) => ({
-        cobalt: '#1f4dfc',
-        midnight: '#1d1e2c',
+        cobalt: '#354168',
+        midnight: '#1b2531',
         pewter: '#ccd0d9',
         periwinkle: '#e0e6ff',
         cornflower: '#839cff',

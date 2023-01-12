@@ -26,7 +26,7 @@
 
     <locations-nav />
 
-    <the-footer />
+    <the-footer :pageTitle="page.title" />
 
   </div>
 </template>
